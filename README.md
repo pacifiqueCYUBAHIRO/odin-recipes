@@ -4,7 +4,7 @@ Index Page:
 
 Title: "Odin Recipes"
 Heading: "Odin Recipes"
-List of Recipes: Links to each recipe section (Recipe1, Recipe2, and Recipe3)
+List of Recipes: Links to each recipe page (Recipe1, Recipe2, and Recipe3)
 
 Recipe1 page:
 
